@@ -1,0 +1,10 @@
+[
+  { "name": "Jolly", "price": 20, "size": 10, "id": 1 },
+  { "name": "Feyikemi", "price": 29, "size": 19, "id": 2 },
+  { "name": "Jacqueline", "price": 21, "size": 13, "id": 3 },
+  { "name": "Peters", "price": 25, "size": 11, "id": 4 },
+  { "name": "Ololademi", "price": 100, "size": 99, "id": 5 },
+  { "username": "Joye", "password": "vibes", "id": 6 },
+  { "create": 1, "prototype": "See if it works", "id": 7 },
+  { "create": 1, "prototype": "See if it works", "logger": "morgan" }
+]
